@@ -1,1 +1,5 @@
-﻿This would be where various results from tests I perform during the analysis step would be. For example, I could perform a t-test to try to construct a confidence interval for the mean of grip strength. I could also try to see if having frailty correlates to an older age, for example. In either case, the results from these tests would be in this folder. Depending on how many tests I conduct, I should probably have different text files for each result.
+﻿This would be where various results from tests I perform during the analysis step would be.
+For example, I could perform a t-test to try to construct a confidence interval for the mean of grip strength.
+I could also try to see if having frailty correlates to an older age, for example. In either case, the results from these tests would be in this folder.
+I think visuals, like graphs, would go here too.
+Depending on how many tests I conduct, I should probably have different text files for each result.
