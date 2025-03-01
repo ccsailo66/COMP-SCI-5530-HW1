@@ -1,0 +1,1 @@
+﻿Going here would be a script which cleans the raw data. The output of this goes into the “Clean Data” folder.
